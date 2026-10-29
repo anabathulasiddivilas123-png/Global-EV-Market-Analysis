@@ -6,9 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔗 Live Dashboard
-**[Click Here to View Interactive Dashboard]** <- *Nee Power BI Publish to Web link ikkada paste chey*
-
 ## 📸 Dashboard Preview
 
 ### The Vision
@@ -25,8 +22,6 @@
 
 ### Green Impact
 *CO₂ avoided & oil displaced - The real climate action*
-
-> **Note:** Add your dashboard screenshots in a `screenshots` folder and link them here like: `![Regional](screenshots/regional.png)`
 
 ## 📊 Project Overview
 Analyzed comprehensive global EV data from **2010-2024** to understand:
